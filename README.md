@@ -13,7 +13,7 @@ Untuk menghindari error dan memastikan Anda mendapatkan versi terbaru yang palin
 Anda tidak perlu pusing mengedit kode manual. Jika ada kendala atau bug, biarkan kami yang memperbaikinya untuk Anda. Cukup jalankan, dan nikmati hasilnya!
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/axcelsozu/themeinstaller/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Axcelsozu/themeinstaller/refs/heads/main/install.sh)
 ```
 
 > [!IMPORTANT]
